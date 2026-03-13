@@ -1,0 +1,15 @@
+{
+  "id" : "https://DerAndi13.github.io/CAS26Andreas/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in DerAndi13/CAS26Andreas project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://DerAndi13.github.io/CAS26Andreas/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
