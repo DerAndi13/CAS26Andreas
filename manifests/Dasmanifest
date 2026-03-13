@@ -1,0 +1,508 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://DerAndi13.github.io/CAS26Andreas/manifests/Dasmanifest",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/65twb3qnvi-mmoqyhlf/canvas/0gfywe595fng-mmoqyvc6",
+    "type" : "Canvas",
+    "height" : 5686,
+    "width" : 4991,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://www.e-rara.ch/i3f/v21/12530938/full/304,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 346,
+      "width" : 304
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/65twb3qnvi-mmoqyhlf/canvas/0gfywe595fng-mmoqyvc6/annotation-page/zmumz0qoia8-mmoqyvc6",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/65twb3qnvi-mmoqyhlf/annotation/k94rvndv4f-mmoqyvc6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/65twb3qnvi-mmoqyhlf/canvas/0gfywe595fng-mmoqyvc6",
+        "body" : {
+          "id" : "https://www.e-rara.ch/i3f/v21/12530938/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5686,
+          "width" : 4991,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/i3f/v21/12530938",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "sizeAboveFull", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg" ]
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 4991,
+            "height" : 5686,
+            "sizes" : [ {
+              "width" : 128,
+              "height" : 146
+            }, {
+              "width" : 304,
+              "height" : 346
+            }, {
+              "width" : 504,
+              "height" : 574
+            }, {
+              "width" : 800,
+              "height" : 911
+            }, {
+              "width" : 1000,
+              "height" : 1139
+            }, {
+              "width" : 1200,
+              "height" : 1367
+            }, {
+              "width" : 1504,
+              "height" : 1713
+            }, {
+              "width" : 2000,
+              "height" : 2279
+            }, {
+              "width" : 4000,
+              "height" : 4557
+            }, {
+              "width" : 4991,
+              "height" : 5686
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "scaleFactors" : [ 1, 1.24775, 2.4955, 3.3184840425531914, 4.159166666666667, 4.991, 6.23875, 9.902777777777779, 16.417763157894736, 38.9921875 ],
+              "height" : 512
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/65twb3qnvi-mmoqyhlf/canvas/b5iwe17kbpq-mmor2l6k",
+    "type" : "Canvas",
+    "height" : 5686,
+    "width" : 4991,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://www.e-rara.ch/i3f/v21/12530938/full/304,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 346,
+      "width" : 304
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/65twb3qnvi-mmoqyhlf/canvas/b5iwe17kbpq-mmor2l6k/annotation-page/7uen5xxoseq-mmor2l6k",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/65twb3qnvi-mmoqyhlf/annotation/ygs9v2xjxb-mmor2l6k",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/65twb3qnvi-mmoqyhlf/canvas/b5iwe17kbpq-mmor2l6k",
+        "body" : {
+          "id" : "https://www.e-rara.ch/i3f/v21/12530938/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5686,
+          "width" : 4991,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/i3f/v21/12530938",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "sizeAboveFull", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg" ]
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 4991,
+            "height" : 5686,
+            "sizes" : [ {
+              "width" : 128,
+              "height" : 146
+            }, {
+              "width" : 304,
+              "height" : 346
+            }, {
+              "width" : 504,
+              "height" : 574
+            }, {
+              "width" : 800,
+              "height" : 911
+            }, {
+              "width" : 1000,
+              "height" : 1139
+            }, {
+              "width" : 1200,
+              "height" : 1367
+            }, {
+              "width" : 1504,
+              "height" : 1713
+            }, {
+              "width" : 2000,
+              "height" : 2279
+            }, {
+              "width" : 4000,
+              "height" : 4557
+            }, {
+              "width" : 4991,
+              "height" : 5686
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "scaleFactors" : [ 1, 1.24775, 2.4955, 3.3184840425531914, 4.159166666666667, 4.991, 6.23875, 9.902777777777779, 16.417763157894736, 38.9921875 ],
+              "height" : 512
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/49",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "23r (0049)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/49",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/49/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/708",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/49",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00049/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00049",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/95",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "46r (0095)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/95",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/95/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/1412",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/95",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00095/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00095",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/96",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "46v (0096)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/96",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/96/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/2071",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/96",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00096/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00096",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/94",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "45v (0094)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/94",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/94/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/2727",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/94",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00094/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00094",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/93",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "45r (0093)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/93",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/93/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/3384",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/93",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00093/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00093",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/92",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "44v (0092)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/92",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/92/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/4041",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/92",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00092/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00092",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/91",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "44r (0091)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/91",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/91/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/4698",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/91",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00091/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00091",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/85",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "41r (0085)" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "123" ]
+      },
+      "value" : {
+        "en" : [ "456" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    } ],
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/85",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/85/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/5350",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/85",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00085/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00085",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/86",
+    "type" : "Canvas",
+    "height" : 2500,
+    "width" : 1780,
+    "label" : {
+      "none" : [ "41v (0086)" ]
+    },
+    "seeAlso" : [ {
+      "id" : "https://api.digitale-sammlungen.de/ocr/bsb00004647/86",
+      "type" : "unknown",
+      "profile" : "http://kba.github.io/hocr-spec/1.2/"
+    } ],
+    "items" : [ {
+      "id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/86/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://example.org/oa:Annotation/6009",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00004647/canvas/86",
+        "body" : {
+          "id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00086/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2500,
+          "width" : 1780,
+          "service" : [ {
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00004647_00086",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "protocol" : "http://iiif.io/api/image"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
